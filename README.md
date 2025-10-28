@@ -1,7 +1,6 @@
 # Re:Anime — Cari, Telusuri, Rekomendasi
 
-**Link Repositori:** <https://github.com/your-username/your-repo>  
-_(ganti dengan URL repo kamu)_
+**Link Repositori:** <https://github.com/Shimicreater/Ujian_Tengah_Semester.git>  
 
 Re:Anime adalah aplikasi Flutter untuk mencari, menelusuri, dan mendapatkan rekomendasi anime. Aplikasi menampilkan Top Anime, pencarian judul, dan filter genre menggunakan **Jikan API (MyAnimeList Unofficial API)** dengan antarmuka bertema **black + cyan**.
 
@@ -95,12 +94,14 @@ section_header.dart
 
 ### Langkah
 ```bash
-# 1) Clone repo
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+# 1) dowload project di github 
+https://github.com/Shimicreater/Ujian_Tengah_Semester.git
 
-# 2) Install dependency
+# 2) buka file project yang berupa ZIP
+buka file tersebut menggunkan android studio
+
+# 3) Install dependency
 flutter pub get
 
-# 3) Jalankan
+# 4) Jalankan
 flutter run
