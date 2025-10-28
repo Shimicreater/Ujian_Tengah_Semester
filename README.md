@@ -105,3 +105,6 @@ flutter pub get
 
 # 4) Jalankan
 flutter run
+
+
+catatan : usahakan menjalankan di emulator atau android
